@@ -1896,6 +1896,10 @@ a:focus, a:hover {
   padding-bottom: 40px;
 }
 
+.privacy .block .policy-item-policy-page {
+  padding-bottom: 30px;
+}
+
 .privacy .block .policy-item .title {
   margin-bottom: 20px;
 }
