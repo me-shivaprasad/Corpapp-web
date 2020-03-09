@@ -89,8 +89,8 @@
         //  Count Down JS
         // -----------------------------
         $('#simple-timer').syotimer({
-            year: 2022,
-            month: 9,
+            year: 2020,
+            month: 5,
             day: 1,
             hour: 0,
             minute: 0
