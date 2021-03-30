@@ -2,7 +2,7 @@ APScheduler==3.6.3
 asgiref==3.2.10
 certifi==2020.6.20
 chardet==3.0.4
-Django==3.0.8
+Django==3.0.12
 djangorestframework==3.11.0
 gunicorn==19.6.0
 idna==2.10
